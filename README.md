@@ -2,10 +2,6 @@
 
 Uma plataforma moderna e inteligente para a gestão completa de estúdios de Pilates, combinando controle administrativo com o poder da Inteligência Artificial.
 
-<div align="center">
-  <img width="100%" alt="Banner do Projeto" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 ## 🚀 Sobre o Projeto
 
 O **Biller's Pilates Studio** foi desenvolvido para simplificar a rotina administrativa de proprietários e instrutores de Pilates. O sistema oferece desde o controle básico de alunos e mensalidades até um inovador assistente de IA para planejamento de aulas.
